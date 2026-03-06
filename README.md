@@ -1,9 +1,8 @@
 # Hi, I'm Lucas! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-castro21&show_icons=true&theme=dark" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-castro21&theme=dark&hide_border=true" alt="Lucas GitHub Streak" />
+</div>
 ---
 
 ## 📌 About me:

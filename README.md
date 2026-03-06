@@ -1,8 +1,8 @@
 # Hi, I'm Lucas! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-castro21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas GitHub stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-castro21&show_icons=true&theme=dark" />
+</p>
 
 ---
 

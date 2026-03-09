@@ -9,7 +9,7 @@
 
 * 🎓 **Education:** Pursuing a degree in Systems Analysis and Development at **UCB**.
 * 🎯 **Focus:** **Front-End Development**, dedicated to building responsive and clean web interfaces.
-* 🛠️ **Main Skills:** HTML5, CSS3, and JavaScript (ES6+).**.
+* 🛠️ **Main Skills:** HTML5, CSS3, and JavaScript (ES6+)**.
 * 🌎 **Languages:** **Advanced English** & Native Portuguese.
 * 🚀 🚀 **Goal:** Seeking my first **Front-End Internship** to apply my skills and grow as a developer.
 
